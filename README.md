@@ -83,4 +83,9 @@ This project uses **C++11** and above.
 ```bash
 g++ -std=c++11 -Wall -Wextra -o mini_terminal *.cpp
 
-- Student: Alexie Iltchouk
+### Authors
+This project was submitted as part of the course
+Advanced Topics in Object-Oriented Programming
+Tel-Hai Academic College
+
+    Student : Alexie Iltchuk
