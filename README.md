@@ -61,19 +61,19 @@ Users can interact with the system through commands, similar to a Unix-like term
 ---
 
 ## Project Structure
-├── main.cpp # Entry point and REPL interface
-├── Terminal.cpp/h # Handles user input and command execution
-├── CommandGenerator.cpp/h # Parses and executes terminal commands
-├── File.cpp/h # File object with reference counting
-├── FileValue.cpp/h # Stores file content
-├── FilesCommands.cpp # Implements file-related commands
-├── Directory.cpp/h # Virtual directory object
-├── DirectoryCommands.cpp # Implements directory-related commands
-├── RCObject.h # Base class for reference-counted objects
-├── RCPtr.h # Template for smart pointers
-├── RefCountPointer.h # Reference counting pointer implementation
-├── CharProxy.cpp/h # Proxy class for character access in files
-├── FileSystemException.h # Custom exceptions for the file system
+- ├── main.cpp # Entry point and REPL interface
+- ├── Terminal.cpp/h # Handles user input and command execution
+- ├── CommandGenerator.cpp/h # Parses and executes terminal commands
+- ├── File.cpp/h # File object with reference counting
+- ├── FileValue.cpp/h # Stores file content
+- ├── FilesCommands.cpp # Implements file-related commands
+- ├── Directory.cpp/h # Virtual directory object
+- ├── DirectoryCommands.cpp # Implements directory-related commands
+- ├── RCObject.h # Base class for reference-counted objects
+- ├── RCPtr.h # Template for smart pointers
+- ├── RefCountPointer.h # Reference counting pointer implementation
+- ├── CharProxy.cpp/h # Proxy class for character access in files
+- ├── FileSystemException.h # Custom exceptions for the file system
 
 
 ## Building the Project
