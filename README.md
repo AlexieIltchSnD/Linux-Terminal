@@ -82,7 +82,7 @@ This project uses **C++11** and above.
 ### Compilation Example (using g++):
 ```bash
 g++ -std=c++11 -Wall -Wextra -o mini_terminal *.cpp
-
+```
 ### Authors
 This project was submitted as part of the course
 Advanced Topics in Object-Oriented Programming
