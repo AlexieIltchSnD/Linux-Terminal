@@ -1,5 +1,4 @@
 # Mini Terminal File System with Reference Counting
-# Mini Terminal File System with Reference Counting
 
 ## Overview
 This project implements a console-based mini-terminal simulating a virtual file system in C++.  
